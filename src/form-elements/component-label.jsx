@@ -1,6 +1,6 @@
 import React from 'react';
 import myxss from './myxss';
-
+import IntlMessages from '../language-provider/IntlMessages';
 const ComponentLabel = (props) => {
   const hasRequiredLabel =
     props.data.hasOwnProperty('required') &&
