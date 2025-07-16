@@ -92,5 +92,6 @@
   "message.was-answered-incorrectly": "Is onjuist beantwoord",
   "message.was-not-registered": "Was niet geregisteerd",
   "message.invalid-email": "Veld vereist een geldig email adres",
-  "message.invalid-phone-number": "Veld vereist een geldig telefoonnummer"
+  "message.invalid-phone-number": "Veld vereist een geldig telefoonnummer",
+  "Select-a-file": "Selecteer een bestand vanaf je computer of apparaat"
 }

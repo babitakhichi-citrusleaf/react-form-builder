@@ -935,7 +935,7 @@ class FileUpload extends React.Component {
                   <div className="btn btn-default">
                     <i className="fas fa-file"></i> <IntlMessages id="upload-file" />
                   </div>
-                  {/* <p>Select a file from your computer or device.</p> */}
+                  <p><IntlMessages id="Select-a-file" /></p>
                 </div>
               </div>
 
