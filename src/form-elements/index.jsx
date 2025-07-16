@@ -12,6 +12,7 @@ import DatePicker from './date-picker';
 import ComponentHeader from './component-header';
 import ComponentLabel from './component-label';
 import myxss from './myxss';
+import IntlMessages from '../language-provider/IntlMessages';
 
 const FormElements = {};
 
