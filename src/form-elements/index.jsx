@@ -795,8 +795,8 @@ class Camera extends React.Component {
         <div className="form-group">
           <ComponentLabel {...this.props} />
           {this.props.read_only === true &&
-          this.props.defaultValue &&
-          this.props.defaultValue.length > 0 ? (
+            this.props.defaultValue &&
+            this.props.defaultValue.length > 0 ? (
             <div>
               <img
                 style={imageStyle}
@@ -913,8 +913,8 @@ class FileUpload extends React.Component {
         <div className="form-group">
           <ComponentLabel {...this.props} />
           {this.props.read_only === true &&
-          this.props.defaultValue &&
-          this.props.defaultValue.length > 0 ? (
+            this.props.defaultValue &&
+            this.props.defaultValue.length > 0 ? (
             <div>
               <button className="btn btn-default" onClick={this.saveFile}>
                 <i className="fas fa-download"></i> Download File
@@ -932,9 +932,9 @@ class FileUpload extends React.Component {
                 />
                 <div className="image-upload-control">
                   <div className="btn btn-default">
-                    <i className="fas fa-file"></i> Upload File
+                    <i className="fas fa-file"></i> <IntlMessages id="upload-file" />
                   </div>
-                  <p>Select a file from your computer or device.</p>
+                  {/* <p>Select a file from your computer or device.</p> */}
                 </div>
               </div>
 
@@ -949,11 +949,11 @@ class FileUpload extends React.Component {
                     <div style={{ display: 'inline-block', marginLeft: '5px' }}>
                       {this.state.fileUpload.size.length > 6
                         ? `Size:  ${Math.ceil(
-                            this.state.fileUpload.size / (1024 * 1024)
-                          )} mb`
+                          this.state.fileUpload.size / (1024 * 1024)
+                        )} mb`
                         : `Size:  ${Math.ceil(
-                            this.state.fileUpload.size / 1024
-                          )} kb`}
+                          this.state.fileUpload.size / 1024
+                        )} kb`}
                     </div>
                   </div>
                   <br />

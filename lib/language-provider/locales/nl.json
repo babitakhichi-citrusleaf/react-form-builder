@@ -78,6 +78,7 @@
   "range": "Bereik",
   "camera": "Camera",
   "file-upload": "Bestand uploaden",
+  "upload-file": "uploaden Bestand",
   "place-holder-text": "Optie tekst",
   "place-holder-label": "Optie label",
   "place-holder-website-link": "Optie website link",
@@ -87,7 +88,6 @@
   "easy": "Gemakkelijk",
   "difficult": "Lastig",
   "drop-zone": "Dropzone",
-
   "message.is-required": "Is verplicht",
   "message.was-answered-incorrectly": "Is onjuist beantwoord",
   "message.was-not-registered": "Was niet geregisteerd",
