@@ -12,7 +12,7 @@ import DatePicker from './date-picker';
 import ComponentHeader from './component-header';
 import ComponentLabel from './component-label';
 import myxss from './myxss';
-import IntlMessages from '../language-provider/IntlMessages';
+// import IntlMessages from '../language-provider/IntlMessages';
 
 const FormElements = {};
 
@@ -933,9 +933,11 @@ class FileUpload extends React.Component {
                 />
                 <div className="image-upload-control">
                   <div className="btn btn-default">
-                    <i className="fas fa-file"></i> <IntlMessages id="upload-file" />
+                    <i className="fas fa-file"></i>
+                    upload-file
+                    {/* <IntlMessages id="upload-file" /> */}
                   </div>
-                  <p><IntlMessages id="Select-a-file" /></p>
+                  {/* <p><IntlMessages id="Select-a-file" /></p> */}
                 </div>
               </div>
 
