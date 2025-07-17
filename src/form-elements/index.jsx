@@ -933,7 +933,7 @@ class FileUpload extends React.Component {
                 />
                 <div className="image-upload-control">
                   <div className="btn btn-default">
-                    <i className="fas fa-file"></i>
+                    <i className="fas fa-file" style={{ marginRight: '10px' }} ></i>
 
                     <IntlMessages id="upload-file" />
                   </div>
