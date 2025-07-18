@@ -284,7 +284,7 @@ class FormElementsEdit extends React.Component {
                 {[
                   {
                     type: 'image, application/pdf, application/msword, application/vnd.openxmlformats-officedocument.wordprocessingml.document, application/vnd.ms-excel, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/vnd.ms-powerpoint, application/vnd.openxmlformats-officedocument.presentationml.presentation, video/mp4,video/x-m4v,video/*',
-                    typeName: intl.formatMessage({ id: 'All-File-Type"' })
+                    typeName: intl.formatMessage({ id: 'All-File-Type' })
                   },
                   { type: 'image', typeName: 'Image' },
                   { type: 'application/pdf', typeName: 'PDF' },
