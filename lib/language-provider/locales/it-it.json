@@ -94,5 +94,6 @@
   "message.was-not-registered": "non è stato registrato",
   "message.invalid-email": "il campo richiede un indirizzo email valido",
   "message.invalid-phone-number": "campo richiede un numero di telefono valido",
-  "Select-a-file": "Select a file from your computer or device"
+  "Select-a-file": "Select a file from your computer or device",
+  "All-File-Type": "All File Type"
 }

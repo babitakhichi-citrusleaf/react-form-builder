@@ -94,5 +94,6 @@
   "message.was-not-registered": "ثبت نشد",
   "message.invalid-email": "فیلد نیاز به آدرس ایمیل معتبر دارد",
   "message.invalid-phone-number": "فیلد نیاز به شماره تلفن معتبر دارد",
-  "Select-a-file": "Select a file from your computer or device"
+  "Select-a-file": "Select a file from your computer or device",
+  "All-File-Type": "All File Type"
 }

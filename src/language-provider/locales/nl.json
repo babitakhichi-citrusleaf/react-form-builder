@@ -42,23 +42,23 @@
 
   "dismiss": "Sluiten",
 
-  "place-holder-option-1": "Opties 1",
-  "place-holder-option-2": "Opties 2",
-  "place-holder-option-3": "Opties 3",
-  "place-holder-tag-1": "Opties 1",
-  "place-holder-tag-2": "Opties 2",
-  "place-holder-tag-3": "Opties 3",
+  "place-holder-option-1": "Optie 1",
+  "place-holder-option-2": "Optie 2",
+  "place-holder-option-3": "Optie 3",
+  "place-holder-tag-1": "Optie 1",
+  "place-holder-tag-2": "Optie 2",
+  "place-holder-tag-3": "Optie 3",
 
   "toolbox": "Toolbox",
   "header-text": "Koptekst",
   "label": "Label",
   "paragraph": "Paragraaf",
   "line-break": "Regeleinde",
-  "dropdown": "Dropdown",
+  "dropdown": "Keuzemenu",
   "tags": "Tags",
   "checkboxes": "Selectievakjes",
   "multiple-choice": "Meerkeuze",
-  "text-input": "Tekstinvoer",
+  "text-input": "Klein tekstvak",
   "email-input": "Email",
   "phone-input": "Telefoonnummer",
   "number-input": "Nummerinvoer",
@@ -93,5 +93,6 @@
   "message.was-not-registered": "Was niet geregisteerd",
   "message.invalid-email": "Veld vereist een geldig email adres",
   "message.invalid-phone-number": "Veld vereist een geldig telefoonnummer",
-  "Select-a-file": "Selecteer een bestand vanaf je computer of apparaat"
+  "Select-a-file": "Selecteer een bestand vanaf je computer of apparaat",
+  "All-File-Type": "Alle bestandstypen"
 }
